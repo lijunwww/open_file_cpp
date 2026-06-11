@@ -1,3 +1,9 @@
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+open_file_cpp/
 # Prerequisites
 *.d
 
